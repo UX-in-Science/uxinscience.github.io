@@ -1,0 +1,238 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="1380" viewBox="0 0 1600 1380" role="img">
+<defs>
+<style>
+
+  .wordmark {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 110px;
+    font-weight: 820;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .wordmark-dark {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 110px;
+    font-weight: 820;
+    letter-spacing: 0;
+    fill: #F7FFF6;
+  }
+  .small-label {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #202320;
+  }
+  .caption {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .thin {
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+  .motion-copy {
+    opacity: 1;
+  }
+  .motion-static {
+    opacity: 0;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .motion-copy {
+      opacity: 0;
+    }
+    .motion-static {
+      opacity: 1;
+    }
+  }
+
+</style>
+</defs>
+
+
+<title>UX scientific team logo proof board</title>
+<rect width="1600" height="1380" fill="#F7FFF6"/>
+<text class="wordmark" x="70" y="140" style="font-size:62px;">UX in Science Scientific Team Logo</text>
+<text class="body" x="72" y="188"><tspan x="72" dy="0">Focused revision: the beaker has been removed. The icon is now a simplified scientific team with atomic</tspan><tspan x="72" dy="30">orbit paths wrapping the group.</tspan></text>
+
+<rect x="72" y="260" width="700" height="300" rx="22" fill="#FFFFFF" stroke="#D9E5D8" stroke-width="3"/>
+<text class="small-label" x="110" y="322">Primary horizontal</text>
+<g transform="translate(112 355) scale(0.68)">
+  <text class="wordmark" x="0" y="156" style="font-size:68px;">UX in Science</text>
+  
+<g transform="translate(382 22) scale(0.62)">
+  <ellipse class="thin" cx="220" cy="156" rx="196" ry="70" transform="rotate(-22 220 156)" stroke="#00A7E1" stroke-width="11" opacity="0.92"/>
+  <ellipse class="thin" cx="220" cy="156" rx="152" ry="53" transform="rotate(24 220 156)" stroke="#4CB944" stroke-width="7" opacity="0.92"/>
+  <circle cx="384" cy="77" r="14" fill="#E3B505"/>
+  <circle cx="66" cy="209" r="14" fill="#4CB944"/>
+
+  <path class="thin" d="M151 173 C165 117 204 94 220 94 C236 94 275 117 289 173" stroke="#34113F" stroke-width="10"/>
+  <circle cx="220" cy="65" r="23" fill="none" stroke="#34113F" stroke-width="8"/>
+
+  <path class="thin" d="M80 195 C94 142 130 124 146 124 C164 124 196 144 206 195" stroke="#4CB944" stroke-width="9"/>
+  <circle cx="146" cy="100" r="21" fill="none" stroke="#4CB944" stroke-width="7"/>
+
+  <path class="thin" d="M234 195 C246 144 279 124 298 124 C317 124 350 144 362 195" stroke="#E3B505" stroke-width="9"/>
+  <circle cx="298" cy="100" r="21" fill="none" stroke="#E3B505" stroke-width="7"/>
+
+  <circle cx="188" cy="213" r="8" fill="#4CB944"/>
+  <circle cx="220" cy="204" r="8" fill="#E3B505"/>
+  <circle cx="252" cy="213" r="8" fill="#00A7E1"/>
+
+</g>
+
+</g>
+
+<rect x="828" y="260" width="700" height="300" rx="22" fill="#010A00" stroke="#D9E5D8" stroke-width="3"/>
+<text class="small-label" x="866" y="322" style="fill:#F7FFF6;">Dark variant</text>
+<g transform="translate(868 355) scale(0.68)">
+  <text class="wordmark-dark" x="0" y="156" style="font-size:68px;">UX in Science</text>
+  
+<g transform="translate(382 22) scale(0.62)">
+  <ellipse class="thin" cx="220" cy="156" rx="196" ry="70" transform="rotate(-22 220 156)" stroke="#1FC7FF" stroke-width="11" opacity="0.92"/>
+  <ellipse class="thin" cx="220" cy="156" rx="152" ry="53" transform="rotate(24 220 156)" stroke="#4DBA45" stroke-width="7" opacity="0.92"/>
+  <circle cx="384" cy="77" r="14" fill="#FACE1E"/>
+  <circle cx="66" cy="209" r="14" fill="#4DBA45"/>
+
+  <path class="thin" d="M151 173 C165 117 204 94 220 94 C236 94 275 117 289 173" stroke="#F7FFF6" stroke-width="10"/>
+  <circle cx="220" cy="65" r="23" fill="none" stroke="#F7FFF6" stroke-width="8"/>
+
+  <path class="thin" d="M80 195 C94 142 130 124 146 124 C164 124 196 144 206 195" stroke="#4DBA45" stroke-width="9"/>
+  <circle cx="146" cy="100" r="21" fill="none" stroke="#4DBA45" stroke-width="7"/>
+
+  <path class="thin" d="M234 195 C246 144 279 124 298 124 C317 124 350 144 362 195" stroke="#FACE1E" stroke-width="9"/>
+  <circle cx="298" cy="100" r="21" fill="none" stroke="#FACE1E" stroke-width="7"/>
+
+  <circle cx="188" cy="213" r="8" fill="#4DBA45"/>
+  <circle cx="220" cy="204" r="8" fill="#FACE1E"/>
+  <circle cx="252" cy="213" r="8" fill="#1FC7FF"/>
+
+</g>
+
+</g>
+
+<rect x="72" y="600" width="700" height="300" rx="22" fill="#FFFFFF" stroke="#D9E5D8" stroke-width="3"/>
+<text class="small-label" x="110" y="662" style="fill:#111111;">Greyscale</text>
+<g transform="translate(112 695) scale(0.68)">
+  <text class="wordmark" x="0" y="156" style="font-size:68px; fill:#111111;">UX in Science</text>
+  
+<g transform="translate(382 22) scale(0.62)">
+  <ellipse class="thin" cx="220" cy="156" rx="196" ry="70" transform="rotate(-22 220 156)" stroke="#808080" stroke-width="11" opacity="0.92"/>
+  <ellipse class="thin" cx="220" cy="156" rx="152" ry="53" transform="rotate(24 220 156)" stroke="#555555" stroke-width="7" opacity="0.92"/>
+  <circle cx="384" cy="77" r="14" fill="#B8B8B8"/>
+  <circle cx="66" cy="209" r="14" fill="#555555"/>
+
+  <path class="thin" d="M151 173 C165 117 204 94 220 94 C236 94 275 117 289 173" stroke="#111111" stroke-width="10"/>
+  <circle cx="220" cy="65" r="23" fill="none" stroke="#111111" stroke-width="8"/>
+
+  <path class="thin" d="M80 195 C94 142 130 124 146 124 C164 124 196 144 206 195" stroke="#555555" stroke-width="9"/>
+  <circle cx="146" cy="100" r="21" fill="none" stroke="#555555" stroke-width="7"/>
+
+  <path class="thin" d="M234 195 C246 144 279 124 298 124 C317 124 350 144 362 195" stroke="#B8B8B8" stroke-width="9"/>
+  <circle cx="298" cy="100" r="21" fill="none" stroke="#B8B8B8" stroke-width="7"/>
+
+  <circle cx="188" cy="213" r="8" fill="#555555"/>
+  <circle cx="220" cy="204" r="8" fill="#B8B8B8"/>
+  <circle cx="252" cy="213" r="8" fill="#808080"/>
+
+</g>
+
+</g>
+
+<rect x="828" y="600" width="700" height="300" rx="22" fill="#FFFFFF" stroke="#D9E5D8" stroke-width="3"/>
+<text class="small-label" x="866" y="662" style="fill:#000000;">Black and white</text>
+<g transform="translate(868 695) scale(0.68)">
+  <text class="wordmark" x="0" y="156" style="font-size:68px; fill:#000000;">UX in Science</text>
+  
+<g transform="translate(382 22) scale(0.62)">
+  <ellipse class="thin" cx="220" cy="156" rx="196" ry="70" transform="rotate(-22 220 156)" stroke="#000000" stroke-width="11" opacity="0.92"/>
+  <ellipse class="thin" cx="220" cy="156" rx="152" ry="53" transform="rotate(24 220 156)" stroke="#000000" stroke-width="7" opacity="0.92"/>
+  <circle cx="384" cy="77" r="14" fill="#000000"/>
+  <circle cx="66" cy="209" r="14" fill="#000000"/>
+
+  <path class="thin" d="M151 173 C165 117 204 94 220 94 C236 94 275 117 289 173" stroke="#000000" stroke-width="10"/>
+  <circle cx="220" cy="65" r="23" fill="none" stroke="#000000" stroke-width="8"/>
+
+  <path class="thin" d="M80 195 C94 142 130 124 146 124 C164 124 196 144 206 195" stroke="#000000" stroke-width="9"/>
+  <circle cx="146" cy="100" r="21" fill="none" stroke="#000000" stroke-width="7"/>
+
+  <path class="thin" d="M234 195 C246 144 279 124 298 124 C317 124 350 144 362 195" stroke="#000000" stroke-width="9"/>
+  <circle cx="298" cy="100" r="21" fill="none" stroke="#000000" stroke-width="7"/>
+
+  <circle cx="188" cy="213" r="8" fill="#000000"/>
+  <circle cx="220" cy="204" r="8" fill="#000000"/>
+  <circle cx="252" cy="213" r="8" fill="#000000"/>
+
+</g>
+
+</g>
+
+<rect x="72" y="940" width="700" height="300" rx="22" fill="#FFFFFF" stroke="#D9E5D8" stroke-width="3"/>
+<text class="small-label" x="110" y="1002">Icon-only mark</text>
+<g transform="translate(238 1028) scale(0.7)">
+  
+<g transform="translate(0 0) scale(1)">
+  <ellipse class="thin" cx="220" cy="156" rx="196" ry="70" transform="rotate(-22 220 156)" stroke="#00A7E1" stroke-width="11" opacity="0.92"/>
+  <ellipse class="thin" cx="220" cy="156" rx="152" ry="53" transform="rotate(24 220 156)" stroke="#4CB944" stroke-width="7" opacity="0.92"/>
+  <circle cx="384" cy="77" r="14" fill="#E3B505"/>
+  <circle cx="66" cy="209" r="14" fill="#4CB944"/>
+
+  <path class="thin" d="M151 173 C165 117 204 94 220 94 C236 94 275 117 289 173" stroke="#34113F" stroke-width="10"/>
+  <circle cx="220" cy="65" r="23" fill="none" stroke="#34113F" stroke-width="8"/>
+
+  <path class="thin" d="M80 195 C94 142 130 124 146 124 C164 124 196 144 206 195" stroke="#4CB944" stroke-width="9"/>
+  <circle cx="146" cy="100" r="21" fill="none" stroke="#4CB944" stroke-width="7"/>
+
+  <path class="thin" d="M234 195 C246 144 279 124 298 124 C317 124 350 144 362 195" stroke="#E3B505" stroke-width="9"/>
+  <circle cx="298" cy="100" r="21" fill="none" stroke="#E3B505" stroke-width="7"/>
+
+  <circle cx="188" cy="213" r="8" fill="#4CB944"/>
+  <circle cx="220" cy="204" r="8" fill="#E3B505"/>
+  <circle cx="252" cy="213" r="8" fill="#00A7E1"/>
+
+</g>
+
+</g>
+
+<rect x="828" y="940" width="700" height="300" rx="22" fill="#FFFFFF" stroke="#D9E5D8" stroke-width="3"/>
+<text class="small-label" x="866" y="1002">Stacked lockup</text>
+<g transform="translate(974 1006) scale(0.64)">
+  <text class="wordmark" x="-84" y="112" style="font-size:78px;">UX in Science</text>
+  
+<g transform="translate(0 152) scale(0.78)">
+  <ellipse class="thin" cx="220" cy="156" rx="196" ry="70" transform="rotate(-22 220 156)" stroke="#00A7E1" stroke-width="11" opacity="0.92"/>
+  <ellipse class="thin" cx="220" cy="156" rx="152" ry="53" transform="rotate(24 220 156)" stroke="#4CB944" stroke-width="7" opacity="0.92"/>
+  <circle cx="384" cy="77" r="14" fill="#E3B505"/>
+  <circle cx="66" cy="209" r="14" fill="#4CB944"/>
+
+  <path class="thin" d="M151 173 C165 117 204 94 220 94 C236 94 275 117 289 173" stroke="#34113F" stroke-width="10"/>
+  <circle cx="220" cy="65" r="23" fill="none" stroke="#34113F" stroke-width="8"/>
+
+  <path class="thin" d="M80 195 C94 142 130 124 146 124 C164 124 196 144 206 195" stroke="#4CB944" stroke-width="9"/>
+  <circle cx="146" cy="100" r="21" fill="none" stroke="#4CB944" stroke-width="7"/>
+
+  <path class="thin" d="M234 195 C246 144 279 124 298 124 C317 124 350 144 362 195" stroke="#E3B505" stroke-width="9"/>
+  <circle cx="298" cy="100" r="21" fill="none" stroke="#E3B505" stroke-width="7"/>
+
+  <circle cx="188" cy="213" r="8" fill="#4CB944"/>
+  <circle cx="220" cy="204" r="8" fill="#E3B505"/>
+  <circle cx="252" cy="213" r="8" fill="#00A7E1"/>
+
+</g>
+
+</g>
+
+<text class="caption" x="72" y="1318">Brand role: teamwork is primary, science is explicit, and UX in Science remains the readable wordmark. Use full color where possible; use greyscale for neutral print and black/white for one-color reproduction.</text>
+
+</svg>

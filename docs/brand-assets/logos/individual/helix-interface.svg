@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img">
+<defs>
+<style>
+
+  .ux-word {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 156px;
+    font-weight: 800;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .sheet-title {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 54px;
+    font-weight: 800;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .sheet-body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 23px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #202320;
+  }
+  .card-title {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 29px;
+    font-weight: 750;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .card-copy {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #202320;
+  }
+  .card-muted {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #596057;
+  }
+  .tag {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .thin {
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+</style>
+</defs>
+
+
+<title>UX logo concept - Helix Interface</title>
+<desc>The helix becomes a human-centered ladder, linking science, iteration, and people.</desc>
+<rect x="0" y="0" width="560" height="260" fill="none"/>
+
+<g>
+  <text class="ux-word" x="48" y="175">UX</text>
+  <g transform="translate(350 32)">
+    <path class="thin" d="M44 0 C-12 42 -12 78 44 120 C100 162 100 198 44 240" stroke="#4CB944" stroke-width="8"/>
+    <path class="thin" d="M44 0 C100 42 100 78 44 120 C-12 162 -12 198 44 240" stroke="#00A7E1" stroke-width="8"/>
+    <g class="thin" stroke="#E3B505" stroke-width="4" opacity="0.9">
+      <path d="M20 36 H68"/>
+      <path d="M11 78 H77"/>
+      <path d="M20 162 H68"/>
+      <path d="M12 204 H76"/>
+    </g>
+    <circle cx="44" cy="0" r="8" fill="#E3B505"/>
+    <circle cx="44" cy="120" r="18" fill="#34113F"/>
+    
+<g>
+  <circle cx="44" cy="112" r="3.8500000000000005" fill="#F7FFF6"/>
+  <path d="M33.0 127.4 C36.3 119.7 51.7 119.7 55.0 127.4 Z" fill="#F7FFF6"/>
+</g>
+
+    <circle cx="44" cy="240" r="8" fill="#E3B505"/>
+  </g>
+</g>
+
+
+</svg>

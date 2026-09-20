@@ -1,0 +1,21 @@
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div>
+      <a class="footer-brand" href="/">{{ site.name }}</a>
+      <p>{{ site.tagline }}</p>
+    </div>
+    <nav aria-label="Footer navigation">
+      <ul>
+        {% for item in site.navigation %}
+          <li>
+            <a href="{{ item.url }}"{% if page.url == item.url or (item.id and section == item.id) %} aria-current="page"{% endif %}>{{ item.label }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+    <div class="footer-meta">
+      <p>&copy; UX in Science · 2026</time></p>
+      <a href="#main-content">Back to top ↑</a>
+    </div>
+  </div>
+</footer>

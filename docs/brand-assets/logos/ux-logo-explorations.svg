@@ -1,0 +1,320 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1960" viewBox="0 0 1600 1960" role="img">
+<defs>
+<style>
+
+  .ux-word {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 156px;
+    font-weight: 800;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .sheet-title {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 54px;
+    font-weight: 800;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .sheet-body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 23px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #202320;
+  }
+  .card-title {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 29px;
+    font-weight: 750;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .card-copy {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #202320;
+  }
+  .card-muted {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #596057;
+  }
+  .tag {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .thin {
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+</style>
+</defs>
+
+
+<title>UX in Science logo explorations</title>
+<rect width="1600" height="1960" fill="#F7FFF6"/>
+<text class="sheet-title" x="80" y="95">UX in Science Logo Explorations</text>
+<text class="sheet-body" x="80" y="144"><tspan x="80" dy="0">Six editable vector directions using the brand guide colors. Each keeps UX explicit and adds</tspan><tspan x="80" dy="32">simple human/team and science cues.</tspan></text>
+<g><rect x="80" y="208" width="118" height="38" rx="12" fill="#4CB944" stroke="#D9E5D8" stroke-width="2"/><text class="tag" x="212" y="232">Jade #4CB944</text></g><g><rect x="222" y="208" width="118" height="38" rx="12" fill="#00A7E1" stroke="#D9E5D8" stroke-width="2"/><text class="tag" x="354" y="232">Sky #00A7E1</text></g><g><rect x="364" y="208" width="118" height="38" rx="12" fill="#34113F" stroke="#D9E5D8" stroke-width="2"/><text class="tag" x="496" y="232">Amethyst #34113F</text></g><g><rect x="506" y="208" width="118" height="38" rx="12" fill="#E3B505" stroke="#D9E5D8" stroke-width="2"/><text class="tag" x="638" y="232">Saffron #E3B505</text></g><g><rect x="648" y="208" width="118" height="38" rx="12" fill="#F7FFF6" stroke="#D9E5D8" stroke-width="2"/><text class="tag" x="780" y="232">Mint #F7FFF6</text></g>
+
+<g transform="translate(80 295)">
+  <rect x="0" y="0" width="700" height="500" rx="22" fill="#FFFFFF" stroke="#D9E5D8" stroke-width="3"/>
+  <g transform="translate(54 54) scale(0.92)">
+    
+<g>
+  <ellipse class="thin" cx="357" cy="112" rx="116" ry="43" transform="rotate(-24 357 112)" stroke="#00A7E1" stroke-width="9"/>
+  <ellipse class="thin" cx="351" cy="116" rx="86" ry="28" transform="rotate(28 351 116)" stroke="#4CB944" stroke-width="5" opacity="0.85"/>
+  <text class="ux-word" x="54" y="175">UX</text>
+  <circle cx="250" cy="151" r="13" fill="#4CB944"/>
+  <circle cx="432" cy="62" r="12" fill="#E3B505"/>
+  
+<g>
+  <circle cx="383" cy="105" r="7.0" fill="#F7FFF6"/>
+  <path d="M363.0 133.0 C369.0 119.0 397.0 119.0 403.0 133.0 Z" fill="#34113F"/>
+</g>
+
+</g>
+
+  </g>
+  <text class="card-title" x="44" y="310">Orbit Lab</text>
+  <text class="tag" x="44" y="344">Human-centered systems, motion, discovery</text>
+  <text class="card-copy" x="44" y="382"><tspan x="44" dy="0">A user-centered orbit suggests research systems, people in</tspan><tspan x="44" dy="23">motion, and iterative inquiry.</tspan></text>
+  <text class="tag" x="44" y="456">BEST FOR</text>
+  <text class="card-muted" x="135" y="456"><tspan x="135" dy="0">Website mastheads, favicon seed, section dividers</tspan></text>
+</g>
+
+
+<g transform="translate(820 295)">
+  <rect x="0" y="0" width="700" height="500" rx="22" fill="#FFFFFF" stroke="#D9E5D8" stroke-width="3"/>
+  <g transform="translate(54 54) scale(0.92)">
+    
+<g>
+  <text class="ux-word" x="48" y="175">UX</text>
+  <g class="thin" stroke="#00A7E1" stroke-width="10">
+    <path d="M362 54 L424 116"/>
+    <path d="M347 71 L382 36"/>
+    <path d="M411 111 L438 84"/>
+    <path d="M371 124 C346 135 331 157 327 188"/>
+    <path d="M303 190 H449"/>
+    <path d="M329 212 C356 229 405 229 438 212"/>
+  </g>
+  <rect x="383" y="88" width="52" height="20" rx="6" transform="rotate(45 409 98)" fill="#34113F"/>
+  
+<g>
+  <circle cx="368" cy="174" r="4.760000000000001" fill="#E3B505"/>
+  <path d="M354.4 193.04 C358.48 183.52 377.52 183.52 381.6 193.04 Z" fill="#34113F"/>
+</g>
+
+  
+<g>
+  <circle cx="420" cy="174" r="4.2" fill="#4CB944"/>
+  <path d="M408.0 190.8 C411.6 182.4 428.4 182.4 432.0 190.8 Z" fill="#34113F"/>
+</g>
+
+</g>
+
+  </g>
+  <text class="card-title" x="44" y="310">Microscope UX</text>
+  <text class="tag" x="44" y="344">Observation, researchers, usability sessions</text>
+  <text class="card-copy" x="44" y="382"><tspan x="44" dy="0">The microscope is paired with participant cues to connect lab</tspan><tspan x="44" dy="23">observation with human experience.</tspan></text>
+  <text class="tag" x="44" y="456">BEST FOR</text>
+  <text class="card-muted" x="135" y="456"><tspan x="135" dy="0">Scientific audiences, workshop decks, research reports</tspan></text>
+</g>
+
+
+<g transform="translate(80 830)">
+  <rect x="0" y="0" width="700" height="500" rx="22" fill="#FFFFFF" stroke="#D9E5D8" stroke-width="3"/>
+  <g transform="translate(54 54) scale(0.92)">
+    
+<g>
+  <text class="ux-word" x="48" y="175">UX</text>
+  <g transform="translate(350 32)">
+    <path class="thin" d="M44 0 C-12 42 -12 78 44 120 C100 162 100 198 44 240" stroke="#4CB944" stroke-width="8"/>
+    <path class="thin" d="M44 0 C100 42 100 78 44 120 C-12 162 -12 198 44 240" stroke="#00A7E1" stroke-width="8"/>
+    <g class="thin" stroke="#E3B505" stroke-width="4" opacity="0.9">
+      <path d="M20 36 H68"/>
+      <path d="M11 78 H77"/>
+      <path d="M20 162 H68"/>
+      <path d="M12 204 H76"/>
+    </g>
+    <circle cx="44" cy="0" r="8" fill="#E3B505"/>
+    <circle cx="44" cy="120" r="18" fill="#34113F"/>
+    
+<g>
+  <circle cx="44" cy="112" r="3.8500000000000005" fill="#F7FFF6"/>
+  <path d="M33.0 127.4 C36.3 119.7 51.7 119.7 55.0 127.4 Z" fill="#F7FFF6"/>
+</g>
+
+    <circle cx="44" cy="240" r="8" fill="#E3B505"/>
+  </g>
+</g>
+
+  </g>
+  <text class="card-title" x="44" y="310">Helix Interface</text>
+  <text class="tag" x="44" y="344">Biology, computation, human factors</text>
+  <text class="card-copy" x="44" y="382"><tspan x="44" dy="0">The helix becomes a human-centered ladder, linking science,</tspan><tspan x="44" dy="23">iteration, and people.</tspan></text>
+  <text class="tag" x="44" y="456">BEST FOR</text>
+  <text class="card-muted" x="135" y="456"><tspan x="135" dy="0">Cross-domain science programs and grant-facing material</tspan></text>
+</g>
+
+
+<g transform="translate(820 830)">
+  <rect x="0" y="0" width="700" height="500" rx="22" fill="#FFFFFF" stroke="#D9E5D8" stroke-width="3"/>
+  <g transform="translate(54 54) scale(0.92)">
+    
+<g>
+  <text class="ux-word" x="48" y="175">UX</text>
+  <g transform="translate(337 48)">
+    <path class="thin" d="M47 0 H116" stroke="#34113F" stroke-width="10"/>
+    <path class="thin" d="M66 6 V54 L22 153 C16 168 27 183 44 183 H123 C140 183 151 168 145 153 L101 54 V6" stroke="#00A7E1" stroke-width="9"/>
+    <path d="M42 139 C70 118 102 158 130 134 L143 164 C145 173 137 180 124 180 H43 C31 180 23 173 26 164 Z" fill="#E3B505" opacity="0.95"/>
+    <circle cx="67" cy="90" r="7" fill="#4CB944"/>
+    <circle cx="104" cy="111" r="5" fill="#34113F"/>
+    <path class="thin" d="M158 75 C188 97 185 144 151 160" stroke="#4CB944" stroke-width="7"/>
+    <path d="M151 160 L170 162 L160 145 Z" fill="#4CB944"/>
+    
+<g>
+  <circle cx="9" cy="62" r="4.48" fill="#E3B505"/>
+  <path d="M-3.8000000000000007 79.92 C0.03999999999999915 70.96000000000001 17.96 70.96000000000001 21.8 79.92 Z" fill="#34113F"/>
+</g>
+
+    
+<g>
+  <circle cx="171" cy="50" r="4.48" fill="#4CB944"/>
+  <path d="M158.2 67.92 C162.04 58.96 179.96 58.96 183.8 67.92 Z" fill="#34113F"/>
+</g>
+
+  </g>
+</g>
+
+  </g>
+  <text class="card-title" x="44" y="310">Experiment Loop</text>
+  <text class="tag" x="44" y="344">Testing, synthesis, collaborative lab work</text>
+  <text class="card-copy" x="44" y="382"><tspan x="44" dy="0">A beaker, feedback loop, and two collaborators connect</tspan><tspan x="44" dy="23">experimentation with team-based UX work.</tspan></text>
+  <text class="tag" x="44" y="456">BEST FOR</text>
+  <text class="card-muted" x="135" y="456"><tspan x="135" dy="0">Friendly teaching material, event badges, slide title</tspan><tspan x="135" dy="20">pages</tspan></text>
+</g>
+
+
+<g transform="translate(80 1365)">
+  <rect x="0" y="0" width="700" height="500" rx="22" fill="#FFFFFF" stroke="#D9E5D8" stroke-width="3"/>
+  <g transform="translate(54 54) scale(0.92)">
+    
+<g>
+  <text class="ux-word" x="48" y="175">UX</text>
+  <g transform="translate(322 48)">
+    <rect x="0" y="0" width="190" height="150" rx="10" fill="#F7FFF6" stroke="#34113F" stroke-width="7"/>
+    <g class="thin" stroke="#D9E5D8" stroke-width="3">
+      <path d="M38 10 V140"/>
+      <path d="M76 10 V140"/>
+      <path d="M114 10 V140"/>
+      <path d="M152 10 V140"/>
+      <path d="M12 38 H178"/>
+      <path d="M12 76 H178"/>
+      <path d="M12 114 H178"/>
+    </g>
+    <polyline class="thin" points="18,119 54,92 88,105 124,50 168,72" stroke="#4CB944" stroke-width="9"/>
+    <polyline class="thin" points="18,119 54,92 88,105 124,50 168,72" stroke="#34113F" stroke-width="3" opacity="0.45"/>
+    <circle cx="18" cy="119" r="8" fill="#00A7E1"/>
+    <circle cx="54" cy="92" r="8" fill="#E3B505"/>
+    <circle cx="88" cy="105" r="8" fill="#00A7E1"/>
+    <circle cx="124" cy="50" r="10" fill="#E3B505"/>
+    <circle cx="168" cy="72" r="8" fill="#00A7E1"/>
+    
+<g>
+  <circle cx="40" cy="164" r="3.64" fill="#00A7E1"/>
+  <path d="M29.6 178.56 C32.72 171.28 47.28 171.28 50.4 178.56 Z" fill="#34113F"/>
+</g>
+
+    
+<g>
+  <circle cx="85" cy="164" r="3.64" fill="#4CB944"/>
+  <path d="M74.6 178.56 C77.72 171.28 92.28 171.28 95.4 178.56 Z" fill="#34113F"/>
+</g>
+
+    
+<g>
+  <circle cx="130" cy="164" r="3.64" fill="#E3B505"/>
+  <path d="M119.6 178.56 C122.72 171.28 137.28 171.28 140.4 178.56 Z" fill="#34113F"/>
+</g>
+
+  </g>
+</g>
+
+  </g>
+  <text class="card-title" x="44" y="310">Data Field</text>
+  <text class="tag" x="44" y="344">Measurement, participants, evidence</text>
+  <text class="card-copy" x="44" y="382"><tspan x="44" dy="0">People-as-data points make the mark evidence-led while keeping</tspan><tspan x="44" dy="23">the human source of insight visible.</tspan></text>
+  <text class="tag" x="44" y="456">BEST FOR</text>
+  <text class="card-muted" x="135" y="456"><tspan x="135" dy="0">Reports, dashboards, evaluation summaries</tspan></text>
+</g>
+
+
+<g transform="translate(820 1365)">
+  <rect x="0" y="0" width="700" height="500" rx="22" fill="#FFFFFF" stroke="#D9E5D8" stroke-width="3"/>
+  <g transform="translate(54 54) scale(0.92)">
+    
+<g>
+  <text class="ux-word" x="48" y="175">UX</text>
+  <g transform="translate(340 35)">
+    <g class="thin" stroke="#00A7E1" stroke-width="8">
+      <path d="M75 96 L23 39"/>
+      <path d="M75 96 L135 28"/>
+      <path d="M75 96 L145 164"/>
+      <path d="M75 96 L25 172"/>
+      <path d="M23 39 L135 28"/>
+      <path d="M25 172 L145 164"/>
+    </g>
+    <circle cx="75" cy="96" r="23" fill="#34113F"/>
+    <circle cx="23" cy="39" r="18" fill="#4CB944"/>
+    <circle cx="135" cy="28" r="16" fill="#E3B505"/>
+    <circle cx="145" cy="164" r="18" fill="#00A7E1"/>
+    <circle cx="25" cy="172" r="15" fill="#F7FFF6" stroke="#34113F" stroke-width="6"/>
+    
+<g>
+  <circle cx="75" cy="88" r="4.06" fill="#F7FFF6"/>
+  <path d="M63.4 104.24 C66.88 96.12 83.12 96.12 86.6 104.24 Z" fill="#F7FFF6"/>
+</g>
+
+    
+<g>
+  <circle cx="23" cy="34" r="2.3800000000000003" fill="#34113F"/>
+  <path d="M16.2 43.52 C18.24 38.76 27.76 38.76 29.8 43.52 Z" fill="#34113F"/>
+</g>
+
+    
+<g>
+  <circle cx="135" cy="24" r="2.24" fill="#34113F"/>
+  <path d="M128.6 32.96 C130.52 28.48 139.48 28.48 141.4 32.96 Z" fill="#34113F"/>
+</g>
+
+    
+<g>
+  <circle cx="145" cy="158" r="2.3800000000000003" fill="#34113F"/>
+  <path d="M138.2 167.52 C140.24 162.76 149.76 162.76 151.8 167.52 Z" fill="#34113F"/>
+</g>
+
+  </g>
+</g>
+
+  </g>
+  <text class="card-title" x="44" y="310">Molecular Network</text>
+  <text class="tag" x="44" y="344">Teams, collaboration, scientific networks</text>
+  <text class="card-copy" x="44" y="382"><tspan x="44" dy="0">The molecular network is revised as a team network, emphasizing</tspan><tspan x="44" dy="23">connection and collaboration.</tspan></text>
+  <text class="tag" x="44" y="456">BEST FOR</text>
+  <text class="card-muted" x="135" y="456"><tspan x="135" dy="0">Community programs, navigation marks, small-size usage</tspan></text>
+</g>
+
+<text class="tag" x="80" y="1908">Guidance: keep Dark Amethyst as the main wordmark color; keep human cues simple enough for favicon, slide, and header sizes.</text>
+
+</svg>

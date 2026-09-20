@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="520" viewBox="0 0 720 520" role="img">
+<defs>
+<style>
+
+  .wordmark {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 110px;
+    font-weight: 820;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .wordmark-dark {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 110px;
+    font-weight: 820;
+    letter-spacing: 0;
+    fill: #F7FFF6;
+  }
+  .small-label {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #202320;
+  }
+  .caption {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .thin {
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+</style>
+</defs>
+
+
+<title>UX in Science logo stacked variant</title>
+<desc>Stacked logo lockup with UX in Science text above a scientific team, atomic orbit paths, and an experiment beaker.</desc>
+<text class="wordmark" x="72" y="144" style="font-size:78px;">UX in Science</text>
+
+<g transform="translate(150 182) scale(0.8)">
+  <ellipse class="thin" cx="220" cy="156" rx="196" ry="70" transform="rotate(-22 220 156)" stroke="#00A7E1" stroke-width="11" opacity="0.92"/>
+  <ellipse class="thin" cx="220" cy="156" rx="152" ry="53" transform="rotate(24 220 156)" stroke="#4CB944" stroke-width="7" opacity="0.92"/>
+  <circle cx="384" cy="77" r="14" fill="#E3B505"/>
+  <circle cx="66" cy="209" r="14" fill="#4CB944"/>
+
+  <path d="M154 164 C166 113 205 94 220 94 C235 94 274 113 286 164 Z" fill="#34113F" opacity="0.96"/>
+  <circle cx="220" cy="65" r="23" fill="#F7FFF6" stroke="#34113F" stroke-width="8"/>
+
+  <path d="M80 195 C94 142 130 124 146 124 C164 124 196 144 206 195 Z" fill="#34113F" opacity="0.96"/>
+  <circle cx="146" cy="100" r="21" fill="#4CB944" stroke="#34113F" stroke-width="6"/>
+
+  <path d="M234 195 C246 144 279 124 298 124 C317 124 350 144 362 195 Z" fill="#34113F" opacity="0.96"/>
+  <circle cx="298" cy="100" r="21" fill="#E3B505" stroke="#34113F" stroke-width="6"/>
+
+  <path class="thin" d="M128 182 C156 207 285 207 314 182" stroke="#34113F" stroke-width="10"/>
+  <path class="thin" d="M104 205 H338" stroke="#34113F" stroke-width="9"/>
+
+  <path class="thin" d="M176 109 H264" stroke="#34113F" stroke-width="12"/>
+  <path class="thin" d="M196 118 V167 L151 269 C145 284 156 300 176 300 H264 C284 300 295 284 289 269 L244 167 V118" stroke="#00A7E1" stroke-width="12"/>
+  <path d="M174 249 C203 226 237 269 267 244 L283 276 C286 286 277 294 263 294 H178 C164 294 155 286 159 276 Z" fill="#E3B505"/>
+  <circle cx="204" cy="184" r="8" fill="#4CB944"/>
+  <circle cx="249" cy="209" r="6" fill="#34113F"/>
+  <circle cx="222" cy="237" r="5" fill="#00A7E1"/>
+</g>
+
+
+</svg>

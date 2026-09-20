@@ -1,0 +1,415 @@
+   4CB944        00A7E1   34113F
+
+
+
+
+   E3B505        F7FFF6
+
+
+
+
+UX in Science
+Color pallet e
+  Color 1                         Color 2                    Color 3                   Color 4                   Color 5
+
+  HEX                4CB944       HEX            00A7E1      HEX            34113F     HEX           E3B505      HEX             F7FFF6
+
+  RGB             76, 18 5, 68    RGB         0, 167, 225    RGB         52, 17, 63    RGB        227, 18 1, 5   RGB       247, 255, 246
+
+  HSB              116, 63, 73    HSB       195, 100, 8 8    HSB       28 6, 73, 25    HSB       48 , 98 , 8 9   HSB          113, 4, 100
+
+  CMYK           58 , 0, 63, 27   CMYK      100, 25, 0, 11   CMYK      17, 73, 0, 75   CMYK      0, 20, 97, 10   CMYK          3, 0, 3, 0
+
+
+
+
+UX in Science
+Color pallet e
++100%            FFFFFF    FFFFFF    FFFFFF     FFFFFF     FFFFFF
+
+
+
++8 7.5%          E9F6E8    DBF6FF    EDD5F4     FEF8 DD    FEFFFE
+
+
+
++75%             D2EED0    B8 EDFF   DAAAE9     FEF0BA     FDFFFC
+
+
+
++62.5%           BCE5B9    94E4FF    C8 8 0DD   FDE998     FCFFFB
+
+
+
++50%             A6DDA2    70DBFF    B556D2     FCE176     FAFFFA
+
+
+
++37.5%           90D48 B   4DD2FF    9F33BF     FBDA53     F9FFF9
+
+
+
++25%             79CB73    29C9FF    7C28 95    FBD231     F8 FFF7
+
+
+
++12.5%           63C35C    05C1FF    58 1C6B    FACB0E     F7FFF6
+
+
+
+0%               4CB944    00A7E1    34113F     E3B505     F7FFF6
+
+
+
+-12.5%           43A33C    0093C4    2F0F38     C59E04     BFFFB6
+
+
+
+-25%             3A8 C34   007EA8    28 0D30    A98 8 03   8 8 FF78
+
+
+
+-37.5%           30742B    00698 C   210B28     8 D7103    50FF39
+
+
+
+-50%             265D22    005470    1B0920     705A02     1DFA00
+
+
+
+-62.5%           1D461A    003F54    140618     544402     16BB00
+
+
+
+-75%             132F11    002A38    0D0410     38 2D01    0F7D00
+
+
+
+-8 7.5%          0A1709    00151C    070208     1C1701     073E00
+
+
+
+-100%            000000    000000    000000     000000     000000
+
+
+
+
+UX in Science
+Color pallet e
++100%            0CBA00    00A8 E0   30003F    E2B500    1DFF00
+
+
+
++8 7.5%          14BA08    00A8 E0   31023F    E2B500    38 FF1E
+
+
+
++75%             1CBA11    00A8 E0   31043F    E2B501    53FF3D
+
+
+
++62.5%           24BA19    00A8 E0   32063F    E2B501    6EFF5B
+
+
+
++50%             2CBA22    00A8 E0   3208 3F   E2B602    8 9FF7A
+
+
+
++37.5%           34BA2B    00A8 E0   330A3F    E2B602    A4FF99
+
+
+
++25%             3CBA33    00A8 E0   330C3F    E2B603    BFFFB7
+
+
+
++12.5%           44BA3C    00A8 E0   340F3F    E2B603    DAFFD6
+
+
+
+0%               4CB944    00A7E1    34113F    E3B505    F7FFF6
+
+
+
+-12.5%           5ABA53    1CAFE0    36173F    E2BC20    F7FFF6
+
+
+
+-25%             68 BA62   38 B6E0   371C3F    E2C13C    F8 FFF7
+
+
+
+-37.5%           75BA70    54BDE0    38 223F   E2C757    F9FFF8
+
+
+
+-50%             8 3BA7F   70C4E0    3A28 3F   E2CC73    FAFFF9
+
+
+
+-62.5%           91BA8 E   8 CCBE0   3B2E3F    E2D28 F   FBFFFB
+
+
+
+-75%             9EBA9C    A8 D2E0   3D343F    E2D7AB    FCFFFC
+
+
+
+-8 7.5%          ACBAAB    C4D9E0    3E393F    E2DDC7    FDFFFD
+
+
+
+-100%            BABABA    E0E0E0    3F3F3F    E2E2E2    FFFFFF
+
+
+
+
+UX in Science
+Color pallet e
++100%            BA4444    E00000     3F1111    E20404     FFF4F4
+
+
+
++8 7.5%          AC5344    C4151C     3E1117    E21A04     FEF5F4
+
+
+
++75%             9F6144    A8 2A38    3C111D    E23004     FDF7F5
+
+
+
++62.5%           917044    8 C3F54    3B1122    E24604     FCF8 F5
+
+
+
++50%             8 37F44   705471     3A1128    E35D05     FBFAF5
+
+
+
++37.5%           758 D44   5468 8 D   38 112E   E37305     FAFBF5
+
+
+
++25%             68 9C44   38 7DA9    371134    E38 905    F9FCF6
+
+
+
++12.5%           5AAA44    1C92C5     351139    E39F05     F8 FEF6
+
+
+
+0%               4CB944    00A7E1     34113F    E3B505     F7FFF6
+
+
+
+-12.5%           4BAA53    0092E1     30113F    C79F21     F7FEF7
+
+
+
+-25%             4A9C62    007DE1     2B113F    AB8 93C    F6FCF8
+
+
+
+-37.5%           498 D70   0068 E1    27113F    8 F7358    F6FBF9
+
+
+
+-50%             48 7F7F   0054E1     23113F    745D74     F6FAFB
+
+
+
+-62.5%           47708 E   003FE0     1E113F    58 468 F   F5F8 FC
+
+
+
+-75%             46619D    002AE0     1A113F    3C30AB     F5F7FD
+
+
+
+-8 7.5%          4553AB    0015E0     15113F    201AC6     F4F5FE
+
+
+
+-100%            4444BA    0000E0     11113F    0404E2     F4F4FF
+
+
+
+
+UX in Science
+Color pallet e
++18 0°           B244BA    E038 00   1C3F11   0431E2    FDF4FF
+
+
+
++157.5°          8 644BA   E0001C    2D3F11   048 4E2   F9F4FF
+
+
+
++135°            5A44BA    E00070    3E3F11   04D7E2    F6F4FF
+
+
+
++112.5°          445BBA    E000C4    3F2F11   04E29A    F4F7FF
+
+
+
++90°             448 7BA   A8 00E0   3F1D11   04E247    F4FBFF
+
+
+
++67.5°           44B3BA    5400E0    3F1116   15E204    F4FEFF
+
+
+
++45°             44BA95    0000E0    3F1127   68 E204   F4FFFB
+
+
+
++22.5°           44BA69    0054E0    3F1139   BCE204    F4FFF7
+
+
+
+0°               4CB944    00A7E1    34113F   E3B505    F7FFF6
+
+
+
+-22.5°           78 BA44   00E0C4    23113F   E26304    F9FFF4
+
+
+
+-45°             A4BA44    00E070    11113F   E20F04    FDFFF4
+
+
+
+-67.5°           BAA344    00E01C    11213F   E2044C    FFFCF4
+
+
+
+-90°             BA7744    38 E000   11333F   E204A0    FFF8 F4
+
+
+
+-112.5°          BA4B44    8 CE000   113F3A   D204E2    FFF4F4
+
+
+
+-135°            BA446A    E0E000    113F29   7E04E2    FFF4F8
+
+
+
+-157.5°          BA4495    E08 C00   113F17   2B04E2    FFF4FC
+
+
+
+-18 0°           B244BA    E038 00   1C3F11   0431E2    FDF4FF
+
+
+
+
+UX in Science
+Color pallet e
+                 8 08 08 0   707070   292929   737373   FAFAFA
+
+
+
+
+                   50%        44%      16%      45%      98 %
+
+
+
+
+UX in Science
+Color pallet e
+ORIGINAL         4CB944      00A7E1    34113F   E3B505    F7FFF6
+
+
+
+
+PROTANOPIA       7B7C60      48 49D2   242433   CFCE2F    FAFAF8
+
+
+
+
+PROTANOMALY      5F9452      1E6FD9    2D1C39   DAC41B    F8 FCF7
+
+
+
+
+DEUT ERANOPIA    746C67      3E32CF    262931   D1D539    FAF9F8
+
+
+
+
+DEUT ERANOMALY   619C54      217BD8    2D1A38   D9C01D    F8 FCF7
+
+
+
+
+T RITANOPIA      51767B      08 C7C5   322B29   E05158    F7F9FA
+
+
+
+
+T RITANOMALY     4F9959      05B6D6    321D36   E18 625   F7FCF7
+
+
+
+
+ACHROMAT OPSIA   8 B8 B8 B   7B7B7B    202020   AEAEAE    FBFBFB
+
+
+
+
+ACHROMAT OMALY   6E9F6A      438 FA9   29192E   C6B161    F9FDF8
+
+
+
+
+UX in Science
+Color pallet e
+UX in Science
+Color pallet e
+4CB944                              Aa                                  Aa
+
+
+
+
+00A7E1                              Aa                                  Aa
+
+
+
+
+34113F            Aa       Aa                Aa       Aa       Aa
+
+
+
+
+E3B505                              Aa                                  Aa
+
+
+
+
+F7FFF6                              Aa                                  Aa
+
+
+
+
+FFFFFF                              Aa                                  Aa
+
+
+
+
+000000            Aa       Aa                Aa       Aa       Aa
+
+
+
+
+                 4CB944   00A7E1   34113F   E3B505   F7FFF6   FFFFFF   000000
+
+
+
+
+UX in Science
+Color pallet e
+

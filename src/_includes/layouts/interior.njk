@@ -1,0 +1,27 @@
+---
+layout: layouts/base.njk
+---
+<main id="main-content">
+  <header class="page-hero{% if compactHero or parentUrl %} page-hero--compact{% endif %}">
+    {% if showBreadcrumbs or parentUrl %}
+      <nav class="breadcrumbs container" aria-label="Breadcrumb">
+        <ol>
+          <li><a href="/">Home</a></li>
+          {% if parentUrl %}<li><a href="{{ parentUrl }}">{{ parentTitle }}</a></li>{% endif %}
+          <li><span aria-current="page">{{ title }}</span></li>
+        </ol>
+      </nav>
+    {% endif %}
+    <div class="container page-hero__grid">
+      <div>
+        {% if eyebrow and not showBreadcrumbs and not parentUrl %}<p class="eyebrow">{{ eyebrow }}</p>{% endif %}
+        <h1>{{ title }}</h1>
+      </div>
+      <p class="page-summary">{{ summary }}</p>
+    </div>
+  </header>
+
+  <div class="page-body">
+    {{ content | safe }}
+  </div>
+</main>

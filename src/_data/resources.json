@@ -1,0 +1,26 @@
+[
+  {
+    "type": "Guide",
+    "accent": "blue",
+    "meta": "8 minute read",
+    "title": "Planning a useful research interview",
+    "summary": "Turn a broad learning goal into questions that reveal behavior and context.",
+    "url": "/#contact"
+  },
+  {
+    "type": "Template",
+    "accent": "green",
+    "meta": "Worksheet",
+    "title": "Scientific workflow map",
+    "summary": "Capture people, tools, data, decisions, and handoffs in one shared view.",
+    "url": "/#contact"
+  },
+  {
+    "type": "Field note",
+    "accent": "yellow",
+    "meta": "5 minute read",
+    "title": "Report uncertainty without losing clarity",
+    "summary": "Practical patterns for making evidence, limitations, and confidence visible.",
+    "url": "/#contact"
+  }
+]

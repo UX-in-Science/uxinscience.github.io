@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img">
+<defs>
+<style>
+
+  .ux-word {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 156px;
+    font-weight: 800;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .sheet-title {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 54px;
+    font-weight: 800;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .sheet-body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 23px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #202320;
+  }
+  .card-title {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 29px;
+    font-weight: 750;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .card-copy {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #202320;
+  }
+  .card-muted {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #596057;
+  }
+  .tag {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .thin {
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+</style>
+</defs>
+
+
+<title>UX logo concept - Orbit Lab</title>
+<desc>A user-centered orbit suggests research systems, people in motion, and iterative inquiry.</desc>
+<rect x="0" y="0" width="560" height="260" fill="none"/>
+
+<g>
+  <ellipse class="thin" cx="357" cy="112" rx="116" ry="43" transform="rotate(-24 357 112)" stroke="#00A7E1" stroke-width="9"/>
+  <ellipse class="thin" cx="351" cy="116" rx="86" ry="28" transform="rotate(28 351 116)" stroke="#4CB944" stroke-width="5" opacity="0.85"/>
+  <text class="ux-word" x="54" y="175">UX</text>
+  <circle cx="250" cy="151" r="13" fill="#4CB944"/>
+  <circle cx="432" cy="62" r="12" fill="#E3B505"/>
+  
+<g>
+  <circle cx="383" cy="105" r="7.0" fill="#F7FFF6"/>
+  <path d="M363.0 133.0 C369.0 119.0 397.0 119.0 403.0 133.0 Z" fill="#34113F"/>
+</g>
+
+</g>
+
+
+</svg>

@@ -1,0 +1,39 @@
+<a class="skip-link" href="#main-content">Skip to main content</a>
+
+<header class="site-header">
+  <div class="container header-layout">
+    <a class="brand" href="/" aria-label="{{ site.name }}, home">
+      <picture>
+        <source
+          srcset="/assets/logos/ux-team-orbit-simple-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        >
+        <img
+          src="/assets/logos/ux-team-orbit-simple-primary.svg"
+          width="301"
+          height="80"
+          alt="{{ site.name }}"
+        >
+      </picture>
+    </a>
+
+    <nav class="primary-nav" aria-label="Primary navigation">
+      <ul>
+        {% for item in site.navigation %}
+          <li{% if item.children %} class="has-submenu"{% endif %}>
+            <a href="{{ item.url }}"{% if item.children %} aria-haspopup="true"{% endif %}{% if page.url == item.url or (item.id and section == item.id) %} aria-current="page"{% endif %}>{{ item.label }}{% if item.children %}<span class="submenu-indicator" aria-hidden="true">▾</span>{% endif %}</a>
+            {% if item.children %}
+              <ul class="submenu">
+                {% for child in item.children %}
+                  <li><a href="{{ child.url }}"{% if page.url == child.url %} aria-current="page"{% endif %}>{{ child.label }}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+
+  <a class="button button--small" href="/about/#contact">Get Involved</a>
+  </div>
+</header>

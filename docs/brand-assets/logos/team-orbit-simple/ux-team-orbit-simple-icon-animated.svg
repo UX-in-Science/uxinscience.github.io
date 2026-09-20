@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="370" viewBox="0 0 500 370" role="img">
+<defs>
+<style>
+
+  .wordmark {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 110px;
+    font-weight: 820;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .wordmark-dark {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 110px;
+    font-weight: 820;
+    letter-spacing: 0;
+    fill: #F7FFF6;
+  }
+  .small-label {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #202320;
+  }
+  .caption {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .thin {
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+  .motion-copy {
+    opacity: 1;
+  }
+  .motion-static {
+    opacity: 0;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .motion-copy {
+      opacity: 0;
+    }
+    .motion-static {
+      opacity: 1;
+    }
+  }
+
+</style>
+</defs>
+
+
+<title>UX in Science animated scientific team icon with atomic orbit</title>
+<desc>Animated icon-only mark showing two orbit balls moving along atomic tracks around a simplified scientific team. The animation visually falls back to static orbit balls when reduced motion is preferred.</desc>
+<g transform="translate(34 28)">
+  <path id="uxis-sky-orbit-motion" d="M 401.728 82.577 C 416.21 118.422 346.588 180.353 246.222 220.903 C 145.857 261.453 52.754 265.268 38.272 229.423 C 23.79 193.578 93.412 131.647 193.778 91.097 C 294.143 50.547 387.246 46.732 401.728 82.577 Z" fill="none" stroke="none" opacity="0"/>
+  <path id="uxis-jade-orbit-motion" d="M 358.859 217.824 C 370.765 191.083 318.247 141.727 241.557 107.582 C 164.867 73.438 93.047 67.436 81.141 94.176 C 69.235 120.917 121.753 170.273 198.443 204.418 C 275.133 238.562 346.953 244.564 358.859 217.824 Z" fill="none" stroke="none" opacity="0"/>
+  <path class="thin" d="M 401.728 82.577 C 416.21 118.422 346.588 180.353 246.222 220.903 C 145.857 261.453 52.754 265.268 38.272 229.423 C 23.79 193.578 93.412 131.647 193.778 91.097 C 294.143 50.547 387.246 46.732 401.728 82.577 Z" stroke="#00A7E1" stroke-width="11" opacity="0.92"/>
+  <path class="thin" d="M 358.859 217.824 C 346.953 244.564 275.133 238.562 198.443 204.418 C 121.753 170.273 69.235 120.917 81.141 94.176 C 93.047 67.436 164.867 73.438 241.557 107.582 C 318.247 141.727 370.765 191.083 358.859 217.824 Z" stroke="#4CB944" stroke-width="7" opacity="0.92"/>
+
+  <g class="motion-copy">
+    <circle r="14" fill="#E3B505">
+      <animateMotion dur="7.2s" begin="-0.8s" repeatCount="indefinite" calcMode="linear">
+        <mpath href="#uxis-sky-orbit-motion" xlink:href="#uxis-sky-orbit-motion"/>
+      </animateMotion>
+    </circle>
+    <circle r="14" fill="#4CB944">
+      <animateMotion dur="8.8s" begin="-4.1s" repeatCount="indefinite" calcMode="linear">
+        <mpath href="#uxis-jade-orbit-motion" xlink:href="#uxis-jade-orbit-motion"/>
+      </animateMotion>
+    </circle>
+  </g>
+
+  <g class="motion-static">
+    <circle cx="384" cy="77" r="14" fill="#E3B505"/>
+    <circle cx="66" cy="209" r="14" fill="#4CB944"/>
+  </g>
+
+
+  <path class="thin" d="M151 173 C165 117 204 94 220 94 C236 94 275 117 289 173" stroke="#34113F" stroke-width="10"/>
+  <circle cx="220" cy="65" r="23" fill="none" stroke="#34113F" stroke-width="8"/>
+
+  <path class="thin" d="M80 195 C94 142 130 124 146 124 C164 124 196 144 206 195" stroke="#4CB944" stroke-width="9"/>
+  <circle cx="146" cy="100" r="21" fill="none" stroke="#4CB944" stroke-width="7"/>
+
+  <path class="thin" d="M234 195 C246 144 279 124 298 124 C317 124 350 144 362 195" stroke="#E3B505" stroke-width="9"/>
+  <circle cx="298" cy="100" r="21" fill="none" stroke="#E3B505" stroke-width="7"/>
+
+  <circle cx="188" cy="213" r="8" fill="#4CB944"/>
+  <circle cx="220" cy="204" r="8" fill="#E3B505"/>
+  <circle cx="252" cy="213" r="8" fill="#00A7E1"/>
+
+</g>
+
+</svg>

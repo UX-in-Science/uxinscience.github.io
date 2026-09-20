@@ -1,0 +1,24 @@
+{
+  "name": "UX in Science",
+  "description": "UX in Science helps research teams make scientific software, data, and workflows easier to understand and use.",
+  "tagline": "An open community hub of resources for scientific user experience (UX).",
+  "email": "hi@uxin.science",
+  "year": 2026,
+  "navigation": [
+    { "label": "Home", "url": "/" },
+    {
+      "id": "ux-resources",
+      "label": "UX Resources",
+      "url": "/ux-resources/",
+      "children": [
+        { "label": "Overview", "url": "/ux-resources/" },
+        { "label": "Research", "url": "/ux-resources/research/" },
+        { "label": "Design", "url": "/ux-resources/design/" },
+        { "label": "Engineering", "url": "/ux-resources/engineering/" }
+      ]
+    },
+    { "label": "Communities", "url": "/communities/" },
+    { "label": "Education & Training", "url": "/education-training/" },
+    { "label": "About", "url": "/about/" }
+  ]
+}

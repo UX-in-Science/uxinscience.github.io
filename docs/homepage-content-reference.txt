@@ -1,0 +1,87 @@
+Skip to main content
+
+	•	Approach
+	•	Projects
+	•	Resources
+	•	About
+Work with us
+Human-centered research infrastructure
+Better experiences make better science.
+We help scientific teams understand their users, improve complex workflows, and build research tools people can use with confidence.
+Start a conversation See our work
+
+
+Shared outcome Usable science
+Researchers
+Evidence
+Tools
+Listen to the people doing the work
+Test ideas early and often
+Measure what improves and what does not
+What UX changes
+Clarity across the research lifecycle
+UX makes scientific work more understandable, efficient, and inclusive—from the first research question to the tools that carry it forward.
+
+01
+Find the friction
+Observe real work, map hidden dependencies, and identify where tools or processes create avoidable effort.
+
+02
+Shape the system
+Turn evidence into clear flows, prototypes, and decisions the whole team can inspect and improve.
+
+03
+Learn what works
+Evaluate with meaningful measures, document limitations, and use findings to guide the next iteration.
+
+
+
+
+
+✓ Finding Make system status visible
+Featured case study
+Turning a complex data workflow into a shared mental model
+A multidisciplinary team could complete the work, but each role understood the system differently. Interviews and workflow mapping exposed the gaps; a tested prototype made dependencies and progress visible.
+Method
+Interviews + prototype testing
+Outcome
+Clearer status and handoffs
+Discuss a similar challenge
+How we work
+A practical, evidence-led process
+Each step creates something your team can use, review, and build on.
+	1	1 Frame Align on the question, people, constraints, and evidence needed. 
+	2	2 Study Learn from real behavior, environments, and existing data. 
+	3	3 Make Prototype the smallest useful change and make assumptions visible. 
+	4	4 Evaluate Test outcomes, document limits, and decide what comes next. 
+Resources
+Tools for research-literate UX
+View all resources
+Guide 8 minute read
+Planning a useful research interview
+Turn a broad learning goal into questions that reveal behavior and context.
+↗
+Template Worksheet
+Scientific workflow map
+Capture people, tools, data, decisions, and handoffs in one shared view.
+↗
+Field note 5 minute read
+Report uncertainty without losing clarity
+Practical patterns for making evidence, limitations, and confidence visible.
+↗
+About UX in Science
+UX belongs in the scientific process.
+We bring human-centered research and design into the teams that create scientific software, services, and infrastructure. The goal is not polish for its own sake—it is better access, better decisions, and more reliable work.
+Learn about the practice
+Have a difficult workflow?
+Let’s make it easier to understand and use.
+Bring a question, a tool, or a process your team wants to improve.
+Start a conversation
+UX in Science
+Human-centered research infrastructure.
+	•	Approach
+	•	Projects
+	•	Resources
+	•	About
+Sample site · 2026
+Back to top ↑

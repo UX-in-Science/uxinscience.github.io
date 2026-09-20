@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img">
+<defs>
+<style>
+
+  .ux-word {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 156px;
+    font-weight: 800;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .sheet-title {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 54px;
+    font-weight: 800;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .sheet-body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 23px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #202320;
+  }
+  .card-title {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 29px;
+    font-weight: 750;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .card-copy {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #202320;
+  }
+  .card-muted {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #596057;
+  }
+  .tag {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .thin {
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+</style>
+</defs>
+
+
+<title>UX logo concept - Molecular Network</title>
+<desc>The molecular network is revised as a team network, emphasizing connection and collaboration.</desc>
+<rect x="0" y="0" width="560" height="260" fill="none"/>
+
+<g>
+  <text class="ux-word" x="48" y="175">UX</text>
+  <g transform="translate(340 35)">
+    <g class="thin" stroke="#00A7E1" stroke-width="8">
+      <path d="M75 96 L23 39"/>
+      <path d="M75 96 L135 28"/>
+      <path d="M75 96 L145 164"/>
+      <path d="M75 96 L25 172"/>
+      <path d="M23 39 L135 28"/>
+      <path d="M25 172 L145 164"/>
+    </g>
+    <circle cx="75" cy="96" r="23" fill="#34113F"/>
+    <circle cx="23" cy="39" r="18" fill="#4CB944"/>
+    <circle cx="135" cy="28" r="16" fill="#E3B505"/>
+    <circle cx="145" cy="164" r="18" fill="#00A7E1"/>
+    <circle cx="25" cy="172" r="15" fill="#F7FFF6" stroke="#34113F" stroke-width="6"/>
+    
+<g>
+  <circle cx="75" cy="88" r="4.06" fill="#F7FFF6"/>
+  <path d="M63.4 104.24 C66.88 96.12 83.12 96.12 86.6 104.24 Z" fill="#F7FFF6"/>
+</g>
+
+    
+<g>
+  <circle cx="23" cy="34" r="2.3800000000000003" fill="#34113F"/>
+  <path d="M16.2 43.52 C18.24 38.76 27.76 38.76 29.8 43.52 Z" fill="#34113F"/>
+</g>
+
+    
+<g>
+  <circle cx="135" cy="24" r="2.24" fill="#34113F"/>
+  <path d="M128.6 32.96 C130.52 28.48 139.48 28.48 141.4 32.96 Z" fill="#34113F"/>
+</g>
+
+    
+<g>
+  <circle cx="145" cy="158" r="2.3800000000000003" fill="#34113F"/>
+  <path d="M138.2 167.52 C140.24 162.76 149.76 162.76 151.8 167.52 Z" fill="#34113F"/>
+</g>
+
+  </g>
+</g>
+
+
+</svg>

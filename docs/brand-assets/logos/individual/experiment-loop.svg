@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260" role="img">
+<defs>
+<style>
+
+  .ux-word {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 156px;
+    font-weight: 800;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .sheet-title {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 54px;
+    font-weight: 800;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .sheet-body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 23px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #202320;
+  }
+  .card-title {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 29px;
+    font-weight: 750;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .card-copy {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #202320;
+  }
+  .card-muted {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0;
+    fill: #596057;
+  }
+  .tag {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0;
+    fill: #34113F;
+  }
+  .thin {
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+</style>
+</defs>
+
+
+<title>UX logo concept - Experiment Loop</title>
+<desc>A beaker, feedback loop, and two collaborators connect experimentation with team-based UX work.</desc>
+<rect x="0" y="0" width="560" height="260" fill="none"/>
+
+<g>
+  <text class="ux-word" x="48" y="175">UX</text>
+  <g transform="translate(337 48)">
+    <path class="thin" d="M47 0 H116" stroke="#34113F" stroke-width="10"/>
+    <path class="thin" d="M66 6 V54 L22 153 C16 168 27 183 44 183 H123 C140 183 151 168 145 153 L101 54 V6" stroke="#00A7E1" stroke-width="9"/>
+    <path d="M42 139 C70 118 102 158 130 134 L143 164 C145 173 137 180 124 180 H43 C31 180 23 173 26 164 Z" fill="#E3B505" opacity="0.95"/>
+    <circle cx="67" cy="90" r="7" fill="#4CB944"/>
+    <circle cx="104" cy="111" r="5" fill="#34113F"/>
+    <path class="thin" d="M158 75 C188 97 185 144 151 160" stroke="#4CB944" stroke-width="7"/>
+    <path d="M151 160 L170 162 L160 145 Z" fill="#4CB944"/>
+    
+<g>
+  <circle cx="9" cy="62" r="4.48" fill="#E3B505"/>
+  <path d="M-3.8000000000000007 79.92 C0.03999999999999915 70.96000000000001 17.96 70.96000000000001 21.8 79.92 Z" fill="#34113F"/>
+</g>
+
+    
+<g>
+  <circle cx="171" cy="50" r="4.48" fill="#4CB944"/>
+  <path d="M158.2 67.92 C162.04 58.96 179.96 58.96 183.8 67.92 Z" fill="#34113F"/>
+</g>
+
+  </g>
+</g>
+
+
+</svg>
