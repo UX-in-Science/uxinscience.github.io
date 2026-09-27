@@ -1,0 +1,40 @@
+{% if collections.newsPosts.length or homeHighlights.length %}
+<section class="section home-highlights" aria-labelledby="highlights-title" data-carousel>
+  <div class="container">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">Around UX in Science</p>
+        <h2 id="highlights-title">News and highlights</h2>
+      </div>
+      <a class="text-link" href="/news/">View all news</a>
+    </div>
+    <div class="carousel-slides" id="home-highlight-slides">
+      {% for post in collections.newsPosts %}
+        {% if loop.index <= 3 %}
+          <article class="carousel-slide" data-slide>
+            <p class="eyebrow">{{ post.data.postType or "News" }} · <time datetime="{{ post.data.published }}">{{ post.data.published | postDate }}</time></p>
+            <h3>{{ post.data.title }}</h3>
+            <p class="carousel-slide__summary">{{ post.data.lede }}</p>
+            <a class="text-link" href="{{ post.url }}">Read the story<span class="visually-hidden">: {{ post.data.title }}</span></a>
+          </article>
+        {% endif %}
+      {% endfor %}
+      {% for highlight in homeHighlights %}
+        <article class="carousel-slide" data-slide>
+          <p class="eyebrow">{{ highlight.label }}</p>
+          <h3>{{ highlight.title }}</h3>
+          <p class="carousel-slide__summary">{{ highlight.summary }}</p>
+          <a class="text-link" href="{{ highlight.url }}">{{ highlight.linkText }}</a>
+        </article>
+      {% endfor %}
+    </div>
+    <div class="carousel-controls" data-carousel-controls hidden>
+      <button class="button button--small" type="button" data-rotation>Pause</button>
+      <button class="button button--small" type="button" data-previous aria-controls="home-highlight-slides" aria-label="Previous highlight">←</button>
+      <p class="carousel-status" data-carousel-status role="status" aria-atomic="true"></p>
+      <button class="button button--small" type="button" data-next aria-controls="home-highlight-slides" aria-label="Next highlight">→</button>
+    </div>
+  </div>
+</section>
+<script src="/assets/js/carousel.js" defer></script>
+{% endif %}

@@ -1,0 +1,43 @@
+---
+layout: layouts/base.njk
+---
+<main id="main-content">
+  <article class="post container" aria-labelledby="post-title">
+    <header class="post-header">
+      <p class="eyebrow">{{ postType or "Article" }}</p>
+      <h1 id="post-title">{{ title }}</h1>
+      <p class="post-lede">{{ lede }}</p>
+      <div class="post-meta">
+        <p>By <a href="#author-bio" rel="author">{{ author.name }}</a></p>
+        <p>Published <time datetime="{{ published }}">{{ published | postDate }}</time></p>
+      </div>
+    </header>
+
+    <div class="post-layout{% if sidebar %} post-layout--with-sidebar{% endif %}">
+      <div class="post-content prose">
+        {{ content | safe }}
+      </div>
+      {% if sidebar %}
+        <aside class="post-sidebar" aria-label="Additional context">
+          {% for box in sidebar %}
+            <section class="post-callout" aria-labelledby="sidebar-title-{{ loop.index }}">
+              <h2 id="sidebar-title-{{ loop.index }}">{{ box.title }}</h2>
+              {% for paragraph in box.paragraphs %}<p>{{ paragraph }}</p>{% endfor %}
+              {% if box.url and box.linkText %}<p><a href="{{ box.url }}">{{ box.linkText }}</a></p>{% endif %}
+            </section>
+          {% endfor %}
+        </aside>
+      {% endif %}
+    </div>
+
+    <footer class="post-author" id="author-bio" aria-labelledby="author-heading">
+      <img class="post-author__image" src="{{ author.image or '/assets/images/author-placeholder.svg' }}" alt="{{ author.imageAlt or '' }}" width="96" height="96" loading="lazy">
+      <div class="post-author__details">
+        <h2 id="author-heading">About the author</h2>
+        <p><strong>{{ author.name }}</strong></p>
+        <p>{{ author.bio }}</p>
+        <a href="mailto:{{ author.email }}">{{ author.email }}</a>
+      </div>
+    </footer>
+  </article>
+</main>

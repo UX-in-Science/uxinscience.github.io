@@ -1,0 +1,16 @@
+[
+  {
+    "label": "Community spotlight",
+    "title": "Find your scientific UX community",
+    "summary": "Connect with groups sharing ideas and experience in user-centered scientific software.",
+    "url": "/communities/",
+    "linkText": "Explore communities"
+  },
+  {
+    "label": "Resource highlight",
+    "title": "Bring user research into your work",
+    "summary": "Explore methods and resources for understanding the people behind scientific workflows.",
+    "url": "/ux-resources/research/",
+    "linkText": "Explore research resources"
+  }
+]

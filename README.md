@@ -49,6 +49,7 @@ The generated static site is written to `_site/`, including the root `CNAME` fil
 ## Site map
 
 - `/` — Home
+- `/news/` — News feed (under Home)
 - `/ux-resources/` — UX Resources overview
 - `/ux-resources/research/` — UX Research
 - `/ux-resources/design/` — UX Design
@@ -106,6 +107,33 @@ If you add or rename a UX Resources page, also update `src/_data/uxResources.jso
 3. Add the route to `src/_data/site.json` when it belongs in primary navigation.
 4. Add breadcrumbs using `showBreadcrumbs`, or `parentTitle` and `parentUrl` for a nested page.
 5. Run a production build and inspect the page at narrow and wide viewport sizes.
+
+### Add a news or blog post
+
+The news feed at `/news/` automatically lists posts tagged `news`, newest publication date first. Copy `src/news/a-space-for-scientific-ux/index.njk` into a new directory under `src/news/`, keeping `tags: [news]` and `section: home`. Update its content and quoted `published` date. The feed uses the title, author, date, and lede from the post; no manual feed entry is needed.
+
+Copy `src/posts/example/index.njk` to `src/posts/your-post/index.njk` to start a post at `/posts/your-post/`. Preview the complete example at `/posts/example/`.
+
+Use `layout: layouts/post.njk` and supply `title`, `description`, `lede`, `published` (a quoted `"YYYY-MM-DD"` date), and an `author` object with `name`, `bio`, and `email`. Set `postType` to a label such as `News` or `Blog`; it defaults to `Article`. Replace the example text and author details before publishing.
+
+Write paragraphs and headings below the front matter, starting body sections at `h2`. The layout adds the title, lede, byline, formatted publication date, and author bio automatically. The bio accepts a few sentences of plain text. Optional `author.image` and `author.imageAlt` fields replace the bundled decorative placeholder with a portrait and appropriate alternative text.
+
+For optional sidebar boxes, use a `sidebar` list; each item has a `title` and a `paragraphs` list, plus optional `url` and `linkText`. Omit `sidebar` entirely for a single-column article. Sidebars stack after the narrative on small screens.
+
+For an inline callout, place this markup between paragraphs. Use a unique heading ID for each box and choose the heading level that fits its surrounding section:
+
+```html
+<aside class="post-callout" aria-labelledby="post-note">
+  <h3 id="post-note">Key takeaway</h3>
+  <p>A short supporting explanation.</p>
+</aside>
+```
+
+### Homepage carousel
+
+The homepage carousel displays the three newest posts tagged `news`, followed by entries in `src/_data/homeHighlights.json`. Edit that file to highlight another page or a section using a URL such as `/communities/#section-id` (the destination must have that ID). Each entry needs `label`, `title`, `summary`, `url`, and `linkText`. Use an empty list to show news only.
+
+The compact carousel shows one entry at a time and loops every six seconds, with Previous, Next, and Pause/Play controls. Hovering pauses rotation temporarily; keyboard focus or manual navigation stops it until Play is selected. Rotation also pauses in background tabs. Reduced-motion users start with autoplay off and receive no transition animation. Automatic changes are not announced to screen readers; manual changes announce the position. Without JavaScript, all entries remain visible as stacked cards; controls are hidden. With fewer than two entries, controls stay hidden.
 
 ### Change shared presentation
 

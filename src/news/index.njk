@@ -1,0 +1,29 @@
+---
+layout: layouts/interior.njk
+title: News
+section: home
+summary: Updates, ideas, and stories from UX in Science.
+description: Read the latest news and updates from UX in Science.
+compactHero: true
+showBreadcrumbs: true
+---
+<section class="section" aria-labelledby="latest-news">
+  <div class="container">
+    <h2 id="latest-news">Latest news</h2>
+    <div class="news-feed">
+      {% for post in collections.newsPosts %}
+        <article class="news-entry" aria-labelledby="news-title-{{ loop.index }}">
+          <p class="eyebrow">{{ post.data.postType or "News" }}</p>
+          <h3 id="news-title-{{ loop.index }}"><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+          <div class="post-meta">
+            <p>By {{ post.data.author.name }}</p>
+            <p><time datetime="{{ post.data.published }}">{{ post.data.published | postDate }}</time></p>
+          </div>
+          <p class="news-entry__summary">{{ post.data.lede }}</p>
+        </article>
+      {% else %}
+        <p>News and updates will appear here soon.</p>
+      {% endfor %}
+    </div>
+  </div>
+</section>

@@ -5,7 +5,15 @@
   "email": "hi@uxin.science",
   "year": 2026,
   "navigation": [
-    { "label": "Home", "url": "/" },
+    {
+      "id": "home",
+      "label": "Home",
+      "url": "/",
+      "children": [
+        { "label": "Overview", "url": "/" },
+        { "label": "News", "url": "/news/" }
+      ]
+    },
     {
       "id": "ux-resources",
       "label": "UX Resources",
