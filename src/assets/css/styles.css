@@ -432,6 +432,14 @@
     padding-block: clamp(4rem, 8vw, 7.5rem);
   }
 
+  .draft-banner {
+    padding-block: var(--space-3);
+    border-bottom: 2px solid var(--color-amethyst);
+    background: var(--color-highlight);
+    color: var(--color-amethyst);
+    text-align: center;
+  }
+
   .page-hero {
     padding-block: clamp(4rem, 9vw, 7rem);
     border-bottom: 2px solid var(--color-amethyst);
