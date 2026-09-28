@@ -5,6 +5,7 @@
     <a class="brand" href="/" aria-label="{{ site.name }}, home">
       <picture>
         <source
+          data-theme-logo
           srcset="/assets/logos/ux-team-orbit-simple-dark.svg"
           media="(prefers-color-scheme: dark)"
         >
@@ -34,6 +35,14 @@
       </ul>
     </nav>
 
-  <a class="button button--small" href="/about/#contact">Get Involved</a>
+    <div class="header-actions">
+      <a class="button button--small" href="/about/#contact">Get Involved</a>
+      <button class="button button--small theme-toggle" type="button" aria-label="Dark mode" aria-pressed="false" hidden>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+          <circle cx="12" cy="12" r="9" />
+          <path d="M12 3a9 9 0 0 1 0 18Z" fill="currentColor" stroke="none" />
+        </svg>
+      </button>
+    </div>
   </div>
 </header>
