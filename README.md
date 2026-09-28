@@ -144,6 +144,12 @@ The compact carousel shows one entry at a time and loops every six seconds, with
 
 Prefer existing CSS tokens and components. Keep core content and navigation functional without JavaScript. Do not copy experimental files from `docs/brand-assets/` directly into templates; publish intentionally selected assets through `src/assets/`.
 
+## Google Analytics
+
+Set `measurementId` in `src/_data/analytics.json` to your GA4 web stream ID (`G-…`), then build and deploy. An empty ID disables the integration. The shared base layout includes analytics on every page that uses it. The loader only runs on the configured `hostname` (`uxin.science`), so localhost and preview hosts do not send traffic to the production property.
+
+The integration uses Google's `gtag.js` with its default page-view tracking; no custom events are configured. After deployment, visit the live site and check the GA4 Realtime report to confirm receipt. Ad blockers can prevent collection. This is a direct Google tag integration and does not include a consent manager.
+
 ## Quality checklist
 
 Before opening a pull request or handing off a change:

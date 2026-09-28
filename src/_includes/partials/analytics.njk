@@ -1,0 +1,3 @@
+{% if analytics.measurementId %}
+<script src="/assets/js/analytics.js" data-measurement-id="{{ analytics.measurementId | escape }}" data-hostname="{{ analytics.hostname | escape }}" defer></script>
+{% endif %}
