@@ -674,6 +674,27 @@
     font-size: var(--step--1);
   }
 
+  .post-meta__published {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-2) var(--space-4);
+  }
+
+  .post-copy-link {
+    gap: var(--space-2);
+    cursor: pointer;
+  }
+
+  .post-copy-link svg {
+    width: 1.1em;
+    height: 1.1em;
+  }
+
+  .post-copy-link__status {
+    color: var(--color-success-text);
+  }
+
   .post-layout {
     display: grid;
     gap: var(--space-7);
