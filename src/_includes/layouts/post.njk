@@ -9,8 +9,8 @@ layout: layouts/base.njk
       <p class="post-lede">{{ lede }}</p>
       <div class="post-meta">
         <p>By <a href="#author-bio" rel="author">{{ author.name }}</a></p>
-        <div class="post-meta__published">
-          <p>Published <time datetime="{{ published }}">{{ published | postDate }}</time></p>
+        <p>Published <time datetime="{{ published }}">{{ published | postDate }}</time></p>
+        <div class="post-copy-link__group">
           <button class="button button--small post-copy-link" type="button" data-copy-link>
             <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <path d="M10 13a5 5 0 0 0 7.07 0l3-3A5 5 0 0 0 13 2.93l-1.72 1.71" />
